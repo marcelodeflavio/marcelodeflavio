@@ -199,28 +199,20 @@ Tenho 16 anos, mas não quero esperar até ser adulto para começar a construir 
 
 Estou aberto a **projetos, colaboração, tecnologia, iniciativas juvenis, oportunidades de aprendizagem e iniciativas relacionadas com os direitos das crianças**.
 
-
-
-
-
-
-
-
-
 ---
 
-\<p align="center">
+<p align="center">
 
 ### 🇲🇿 Pemba, Cabo Delgado — Mozambique
 
 **Technology • Youth • Child Rights • Leadership • Culture**
 
-\</p>
+</p>
 
-\<p align="center">
-\<i>Learning. Creating. Leading. Defending.\</i>
-\</p>
+<p align="center">
+<i>Learning. Creating. Leading. Defending.</i>
+</p>
 
-\<p align="center">
-\<b>© 2026 Marcelo de Flávio\</b>
-\</p>
+<p align="center">
+<b>© 2026 Marcelo de Flávio</b>
+</p>
