@@ -209,10 +209,6 @@ Conheça mais sobre a minha trajetória, projetos, competências e experiências
 
 ---
 
-### 🇲🇿 Pemba, Cabo Delgado — Mozambique
-
-**Technology • Youth • Child Rights • Leadership • Culture**
-
 </div>
 </p>
 
