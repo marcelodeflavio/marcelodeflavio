@@ -198,14 +198,14 @@ Tenho 16 anos, mas não quero esperar até ser adulto para começar a construir 
 # 🤝 Vamos conectar?
 
 Estou aberto a **projetos, colaboração, tecnologia, iniciativas juvenis, oportunidades de aprendizagem e iniciativas relacionadas com os direitos das crianças**.
-
+<p align="center">
 ## 🚀 Meu Portfólio
 
 > Conheça meus projetos, competências, experiências e trabalho nas áreas de tecnologia, liderança juvenil e defesa dos direitos das crianças.
 
 🔗 **[Acessar meu portfólio](https://marcelodeflavio.github.io/Portifolio/)**
 
-<p align="center">
+
 
 ### 🇲🇿 Pemba, Cabo Delgado — Mozambique
 
