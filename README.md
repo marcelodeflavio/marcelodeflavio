@@ -183,7 +183,7 @@ Também gosto de:
 🎱 Bilhar — algo que estou a aprender recentemente.
 
 ---
-<div align="center">
+
 # 🤝 Vamos conectar?
 
 Estou aberto a:
@@ -193,7 +193,7 @@ Estou aberto a:
 - Iniciativas juvenis
 - Oportunidades de aprendizagem
 - Projetos relacionados com os direitos das crianças
-
+<div align="center">
 🌐 Portfólio: [https://marcelodeflavio.github.io/Portifolio/](https://marcelodeflavio.github.io/Portifolio/)
 
 💼 LinkedIn: [https://www.linkedin.com/in/marcelo-de-flávio-aa3074292/](https://www.linkedin.com/in/marcelo-de-flávio-aa3074292/)
