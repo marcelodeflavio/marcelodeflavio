@@ -8,7 +8,9 @@
 
 > **"Entre linhas de código e vozes de crianças, estou a construir o meu caminho."**
 
-🌐 [Portfólio](https://marcelodeflavio.github.io/Portifolio/) • 💼 [LinkedIn](https://www.linkedin.com/in/marcelo-de-flávio-aa3074292/) • 📸 [Instagram](https://www.instagram.com/marcelo_de_flavio/)
+🌐 [Portfólio](https://marcelodeflavio.github.io/Portifolio/) • 
+💼 [LinkedIn](https://www.linkedin.com/in/marcelo-de-flávio-aa3074292/) • 
+📸 [Instagram](https://www.instagram.com/marcelo_de_flavio/)
 
 ---
 
